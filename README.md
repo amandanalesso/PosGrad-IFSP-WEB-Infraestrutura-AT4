@@ -7,6 +7,10 @@ Fazer uma branch com o seu nome e mudar para ela
 
 git checkout -b nome-da-branch
 
-resume amanda, laura, ingrid 
+Adicionar uma página simples com o seu cv 
+
+CVs
+Amanda 
+Laura
 
 
